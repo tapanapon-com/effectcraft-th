@@ -2,7 +2,7 @@
 
 โครงการเตรียมรุ่นภาษาไทยอิสระของ [EffectCraft โดย storytold / ArtCraft](https://github.com/storytold/effectcraft) ในชุด [วันละ Craft / One Per Craft](https://github.com/tapanapon-com/one-per-craft) เอนจินและคุณสมบัติหลักเป็นผลงานของผู้พัฒนาต้นฉบับ
 
-[ดาวน์โหลดต้นฉบับ v0.22.0](https://github.com/storytold/effectcraft/releases/tag/v0.22.0) · [คู่มือ Mac](docs/install-macos.md) · [คู่มือ Windows](docs/install-windows.md) · [Version Log](CHANGELOG.md) · [English](#english)
+[ดาวน์โหลดต้นฉบับ v0.22.0](https://github.com/storytold/effectcraft/releases/tag/v0.22.0) · [คู่มือ Mac](docs/install-macos.md) · [คู่มือ Windows](docs/install-windows.md) · [Version Log](docs/version-log.md) · [English](#english)
 
 ## สถานะรุ่นไทย
 
@@ -13,7 +13,7 @@
 | Release ต้นฉบับที่ตรวจ | [v0.22.0](https://github.com/storytold/effectcraft/releases/tag/v0.22.0) |
 | แพ็กเกจภาษาไทยของ Tapanapon | ยังไม่เผยแพร่ |
 | เนื้อหา repo นี้ | เอกสารและข้อมูลอ้างอิงต้นทาง |
-| ตรวจข้อมูลล่าสุด | 07/11/2026 10:59 ICT |
+| ตรวจ Release ล่าสุด | 07/11/2026 22:57 ICT |
 
 ลิงก์ดาวน์โหลดด้านบนเป็นไฟล์ต้นฉบับของ storytold / ArtCraft ไม่ใช่ตัวติดตั้ง TH และอาจมีภาษาที่รองรับต่างกันตามรุ่น อ่าน [ข้อมูลต้นทาง](UPSTREAM.md) และ [สถานะคำแปล](docs/localization-th.md)
 
@@ -58,7 +58,7 @@
 - ปรับการนำเข้า EDL ให้ใช้ source timecode ของแต่ละไฟล์ได้ตรงตำแหน่ง — [ต้นทาง](https://github.com/storytold/effectcraft/pull/2835)
 - กำหนดโปรไฟล์ Rec. 2100 ให้การนำเข้าวิดีโอ BT.2020 PQ และ HLG — [ต้นทาง](https://github.com/storytold/effectcraft/pull/2852)
 
-อ่าน [CHANGELOG](CHANGELOG.md) และ [Version Log บนเว็บไซต์](https://tapanapon.com/one-per-craft/versions#effectcraft) การเปลี่ยนแปลงข้างต้นยังไม่ได้ถูกอ้างว่าเข้าแพ็กเกจ TH แล้ว
+อ่าน [CHANGELOG](CHANGELOG.md) และ [Version Log ต้นฉบับ](docs/version-log.md) การเปลี่ยนแปลงข้างต้นยังไม่ได้ถูกอ้างว่าเข้าแพ็กเกจ TH แล้ว
 
 ## ขอบเขตคำแปลและการตรวจสอบ
 

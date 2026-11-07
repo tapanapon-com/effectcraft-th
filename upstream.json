@@ -31,7 +31,25 @@
         "text": "กำหนดโปรไฟล์ Rec. 2100 ให้การนำเข้าวิดีโอ BT.2020 PQ และ HLG",
         "source": "https://github.com/storytold/effectcraft/pull/2852"
       }
+    ],
+    "releaseCheckedAt": "2026-11-07T15:57:45.414988+00:00",
+    "releaseHistory": [
+      {
+        "tag": "v0.22.0",
+        "publishedAt": "2026-11-06T20:26:02Z",
+        "url": "https://github.com/storytold/effectcraft/releases/tag/v0.22.0"
+      },
+      {
+        "tag": "v0.21.1",
+        "publishedAt": "2026-11-05T01:47:58Z",
+        "url": "https://github.com/storytold/effectcraft/releases/tag/v0.21.1"
+      },
+      {
+        "tag": "v0.21.0",
+        "publishedAt": "2026-11-03T01:05:56Z",
+        "url": "https://github.com/storytold/effectcraft/releases/tag/v0.21.0"
+      }
     ]
   },
-  "versionLog": "https://tapanapon.com/one-per-craft/versions#effectcraft"
+  "versionLog": "https://github.com/tapanapon-com/effectcraft-th/blob/main/docs/version-log.md"
 }
