@@ -79,7 +79,7 @@ EffectCraft TH is an independent Thai-edition preparation project for [EffectCra
 
 ### Features and workflow
 
-ทำคอมโพสิต ภาพเคลื่อนไหว และเอฟเฟกต์ภาพ. See the upstream README for supported workflows and limitations. Source capabilities are not a claim of completed Thai localization.
+Build compositions with layers and keyframes, adjust effects and render motion graphics. See the upstream README for supported workflows and limitations. Source capabilities are not a claim of completed Thai localization.
 
 ### Downloads and installation
 
